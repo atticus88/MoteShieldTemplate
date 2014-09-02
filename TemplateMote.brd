@@ -123,12 +123,12 @@
 </layers>
 <board>
 <plain>
-<wire x1="0.508" y1="1.1684" x2="35.2427" y2="1.143" width="0" layer="20"/>
-<wire x1="35.2427" y1="1.143" x2="35.2427" y2="24.2316" width="0" layer="20"/>
-<wire x1="35.2427" y1="24.2316" x2="0.5334" y2="24.2978" width="0" layer="20"/>
-<wire x1="0.5334" y1="24.2978" x2="0.508" y2="1.1684" width="0" layer="20"/>
+<wire x1="0.508" y1="1.1684" x2="35.2298" y2="1.1684" width="0" layer="20"/>
+<wire x1="35.2298" y1="1.1684" x2="35.179" y2="24.257" width="0" layer="20"/>
+<wire x1="35.179" y1="24.257" x2="0.5334" y2="24.247" width="0" layer="20"/>
+<wire x1="0.5334" y1="24.247" x2="0.508" y2="1.1684" width="0" layer="20"/>
 <text x="7.5184" y="6.8199" size="1.016" layer="25">Moteino shield</text>
-<text x="7.5184" y="8.6868" size="1.016" layer="25">Template Shild</text>
+<text x="7.5184" y="8.6868" size="1.016" layer="25">Template Shield</text>
 </plain>
 <libraries>
 <library name="SparkFun-Connectors">

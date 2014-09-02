@@ -1,4 +1,4 @@
-MoteShieldTemplate
+Mote Shield Template
 ==================
 
-Moteino Eagle Shield 
+Moteino Eagle Shield Template
